@@ -207,4 +207,4 @@ fridge1.show_inf()
 ### Результат:
 ![Меню](https://github.com/Dirtzzz/Tema_8/blob/main/8.5.png)
 Вывод консоли:
-![Меню](https://github.com/Dirtzzz/Tema_8/blob/main/8.5(1)).png)
+![Меню](https://github.com/Dirtzzz/Tema_8/blob/main/8.5(1).png)
